@@ -4,6 +4,8 @@
 
 Underwater pollution is a growing environmental concern that threatens marine ecosystems and aquatic life. This project aims to detect and identify underwater trash using Computer Vision and Deep Learning techniques. By automating the detection process, the system can assist environmental organizations and researchers in monitoring and cleaning polluted water bodies.
 
+
+Analyzed underwater trash datasets and visualized waste distribution patterns using Python, NumPy, and Matplotlib to support marine pollution assessment.
 # Objectives
 
 - Detect underwater waste from images and video streams.
